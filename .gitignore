@@ -1,0 +1,5 @@
+.venv
+.ipynb_checkpoints
+.DS_Store
+DM_intro_markdown.ipynb
+DM_explained_markdowns.ipynb
